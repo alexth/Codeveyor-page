@@ -10,6 +10,6 @@ alt: image-alt
 project-date: April 2014
 client: Self Distributed
 category: iOS Development
-description: Two-languages offline dictionary for learning and travelling. Swift made. All code is  outsourced
+description: Two-languages offline dictionary for learning and travelling. Written at Swift. All code is  outsourced
 
 ---

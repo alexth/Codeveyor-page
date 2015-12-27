@@ -7,7 +7,7 @@ date: 2014-07-16
 img: adonis.png
 thumbnail: adonis-thumbnail.png
 alt: image-alt
-project-date: April 2014
+project-date: April 2015
 client: Adonis clinic
 category: iOS Development
 description: Online medical services, consulting and make an doctor appointment at one click. Integrated sms-based login service and push notifications with appointnents status
