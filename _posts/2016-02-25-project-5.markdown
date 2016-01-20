@@ -3,7 +3,7 @@ title: Yoca
 subtitle: Car maintenance scheduler
 layout: default
 modal-id: 2
-date: 2014-07-17
+date: 2016-01-15
 img: yoca.png
 thumbnail: yoca-thumbnail.png
 alt: image-alt

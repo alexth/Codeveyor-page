@@ -3,7 +3,7 @@ title: Adonis
 subtitle: Medical clinic mobile service
 layout: default
 modal-id: 3
-date: 2014-07-16
+date: 2014-10-15
 img: adonis.png
 thumbnail: adonis-thumbnail.png
 alt: image-alt

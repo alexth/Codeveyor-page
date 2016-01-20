@@ -3,12 +3,12 @@ title: Your app
 subtitle: Let's build project together!
 layout: default
 modal-id: 1
-date: 2014-07-18
+date: 2016-01-20
 img: yourapp.png
 thumbnail: yourapp-thumbnail.png
 alt: image-alt
 project-date: Now!
-client: Start Bootstrap
+client: You
 category: Mobile Development
 description: Let's drive your idea to be real!
 

@@ -3,7 +3,7 @@ title: Citroen
 subtitle: Car presentation product
 layout: default
 modal-id: 6
-date: 2014-07-15
+date: 2013-07-13
 img: citroen.png
 thumbnail: citroen-thumbnail.png
 alt: image-alt
