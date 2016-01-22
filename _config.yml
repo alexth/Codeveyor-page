@@ -23,31 +23,31 @@ people:
   position: Resolving Issues Director
   social:
     - title: twitter
-      url: #
+      url: https://twitter.com/Codeveyor
     - title: facebook
-      url: #
+      url: https://www.facebook.com/officialchucknorrispage
     - title: stack-overflow
-      url: #
+      url: http://stackoverflow.com/users/867232/chuck-norris
 
 - name: Alex Golub
   pic: 2
   position: Founder, Acting Team Lead, iOS developer
   social:
     - title: twitter
-      url: #
+      url: https://twitter.com/Codeveyor
     - title: github
-      url: #
+      url: https://github.com/alexth
     - title: linkedin
-      url: #
+      url: https://ua.linkedin.com/in/alex-golub-a822b546
 
 - name: Victoria Arnautu
   pic: 3
   position: Head HR Manager
   social:
-    - title: twitter
-      url: #
+    - title: linkedin
+      url: https://ua.linkedin.com/in/victoria-arnautu-9522067b
     - title: facebook
-      url: #
+      url: https://www.facebook.com/victoria.alexei
     
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
@@ -55,7 +55,7 @@ social:
   - title: twitter
     url: http://twitter.com/codeveyor
   - title: facebook
-    url:
+    url: https://www.facebook.com/Codeveyor-1532947676939468/
   - title: stack-overflow
     url: http://stackoverflow.com/users/1236726/alex
   - title: bitbucket 
